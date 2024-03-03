@@ -1,23 +1,17 @@
-# OIPSIP INTERNSHIP
+OIPSIP INTERNSHIP
+This internship focuses on data science and analytics, providing valuable hands-on experience with various tasks.
 
-This internship was all about data science and analytics.
-I completed the given tasks by them. 
+TASK-1: IRIS FLOWER CLASSIFICATION
+In this task,  predicted the species of IRIS Flower using attributes such as petal length, sepal length, petal width, and sepal width. The classification is done using Decision Tree classification (ID3 Classifier).
 
-The description of all the tasks is as follows:
+TASK-2: UNEMPLOYMENT ANALYSIS
+Explored datasets related to unemployment by creating various charts and graphs using the matplotlib and seaborn libraries in Python.
 
-**TASK-1: IRIS FLOWER CLASSIFICATION**
-Predicted the species of IRIS Flower using the attributes given such as: petal length, sepal length, petal width and sepal width. 
-Used Decision Tree classification(ID3 Classifier) for classification of species.
+TASK-3: CAR PRICE PREDICTION USING MACHINE LEARNING
+This task involves predicting the price of a car based on factors such as brand reputation, car features, mileage, and more. Car price prediction is a significant research area in machine learning, and interns will gain practical experience in training prediction models.
 
-##TASK-2: UNEMPLOYMENT ANALYSIS
-Explored the dataset by creating various charts and graphs using matplotlib and seaborn libraries of python for unemployment analysis.
+TASK-4: EMAIL SPAM DETECTION
+Builded an email spam detection tool using Python. By training machine learning models, they classify emails into spam and non-spam categories, helping users identify and avoid potentially harmful content.
 
-##TASK-3 CAR PRICE PREDICTION USING MACHINE LEARNING
-The price of a car depends on a lot of factors like the good will of the brand of the car, features of the car, horoscope and the milage it gives and many more. Car price prediction is one of the major research areas in machine learning. So if you want to learn how to train a car price prediction model then this project is for you.
-
-##TASK-4: EMAIL SPAM DETECTION
-We have all been the recipient of spam mails before. Spam mail,or junk mail, is a type of email that is sent to a massive number of users at one time, frequently containing cryptic messages, scams ,or most dangerously, phishing content.
-In this project , Python is used to build an email spam detector. Then use machine learning to train the spam detector to recognize and classify emails into spam and non-spam.
-        
-##TASK-5: SALES PREDICTION
-Sales prediction means predicting how much of a product people will buy based on factors such as the amount you spend to advertise your product, the segment of people you advertise for, or the platform you are advertising on about your product. Typically, a product and service-based business always need their Data Scientist to predict their future sales with every step they take to manipulate the cost of advertising their product. The task of sales prediction with machine learning is done using python. Linear regression model is used for forecasting the sales.
+TASK-5: SALES PREDICTION
+In this task, predict future sales of products using machine learning techniques. By analyzing factors such as advertising expenditure, target demographics, and advertising platforms, interns develop sales forecasting models using linear regression.
