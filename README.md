@@ -4,7 +4,8 @@ This internship was all about data science and analytics.
 I completed the given tasks by them. 
 
 The description of all the tasks is as follows:
-##TASK-1: IRIS FLOWER CLASSIFICATION
+
+**TASK-1: IRIS FLOWER CLASSIFICATION**
 Predicted the species of IRIS Flower using the attributes given such as: petal length, sepal length, petal width and sepal width. 
 Used Decision Tree classification(ID3 Classifier) for classification of species.
 
